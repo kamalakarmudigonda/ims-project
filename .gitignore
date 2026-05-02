@@ -1,6 +1,8 @@
+.cache/
 __pycache__/
 *.pyc
-.cache/
 .ssh/
-*.log
-.env
+.bash*
+.cshrc
+.tcshrc
+.viminfo
